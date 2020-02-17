@@ -1,0 +1,31 @@
+{ 
+    "manifest_version":2,
+    "name":"bypass Medium block",
+    "version":"0.1",
+    "browser_action":{ 
+        "icons":{ 
+            "16":"icon1.png",
+            "48":"icon48.png",
+            "128":"icon128.png"
+        }
+    },
+    "permissions":[ 
+        "tabs",
+        "storage"
+    ],
+    "content_scripts":[ 
+        { 
+            "matches":[ 
+                "https://medium.com./*"
+            ],
+            "js":[ 
+                "content.js"
+            ]
+        }
+    ],
+    "background":{ 
+        "scripts":[ 
+            "background.js"
+        ]
+    }
+}
