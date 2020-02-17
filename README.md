@@ -1,6 +1,7 @@
 
 # bypass Medium block - chrome extension
 Chrome extension that bypass Medium block in Egypt it works by just adding a dot '.' after ".com".
+
 **Example:**
 
 [https://medium.com/](https://medium.com/) - blocked.
