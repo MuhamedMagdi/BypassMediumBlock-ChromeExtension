@@ -7,6 +7,7 @@ Chrome extension that bypass Medium block in Egypt it works by just adding a dot
 
 [https://medium.com./](https://medium.com./) - isn't blocked.
 
+
 **How to install:** 
  1. go to settings.
  2. click on Extensions.
@@ -20,6 +21,7 @@ Chrome extension that bypass Medium block in Egypt it works by just adding a dot
 just click on the extension and it will be *disabled/enabled*, when you click on the extension it changes its color this means it's enabled/disabled now.
  
 **Black = Enabled.**
+
 **White = Disabled.**
 
 
