@@ -14,7 +14,7 @@ Chrome extension that bypass Medium block in Egypt it works by just adding a dot
  2. click on Extensions.
  3. Enable developer mode
  4. click on load unpacked.
- 5. select the folder where you downloaded the extension.
+ 5. select the "Extension folder".
 
  **Note:** [Medium](https://medium.com/) some times when you add a dot '.' after ".com" it redirects you to the site without the dot '.' in this case you need to disable the extension or you will be in a rabbit hole.
 
