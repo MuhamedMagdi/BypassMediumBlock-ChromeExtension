@@ -17,12 +17,14 @@ Chrome extension that bypass Medium block in Egypt it works by just adding a dot
 **How to Enable/Disable the extension:**
 just click on the extension and it will be *disabled/enabled*, when you click on the extension it changes its color this means it's enabled/disabled now.
  
-**Black = Enabled.
-White = Disabled.**
+**Black = Enabled.**
+**White = Disabled.**
 
 
 **The extension is enabled:**
- ![Enabled](https://i.imgur.com/VjYlQqE.png)
+
+![Enabled](https://i.imgur.com/VjYlQqE.png)
  
- **The extension is disabled:**
+**The extension is disabled:**
+
 ![Disabled](https://i.imgur.com/pllWKFn.png)
